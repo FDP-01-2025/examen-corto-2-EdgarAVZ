@@ -21,7 +21,7 @@ int main(){
     } else if(edad > 10 && edad <= 15){
         cout << "Tu talla es 12" << endl;
 
-    } else if(edad > 115 && edad <= 60){
+    } else if(edad > 15 && edad <= 60){
         cout << "Tu talla es 16" << endl;
 
     } else {
